@@ -1,0 +1,10 @@
+venv/
+venv_faiss/
+myenv/
+marqo_env/
+__pycache__/
+*.pyc
+*.sqlite3
+*.csv
+.DS_Store
+
